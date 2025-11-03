@@ -79,3 +79,31 @@ Click Save — your live site will be published at https://yourusername.github.i
 Option 2: Netlify
 
 Log into Netlify
+boardwalk-games/
+│
+├── index.html
+├── booking.html
+├── game-library.html
+│
+├── assets/
+│   ├── css/
+│   │   └── styles.css
+│   ├── images/
+│   │   ├── favicon/
+│   │   ├── services-1.webp
+│   │   ├── boardwalk-games-carousel-image-1.webp
+│   │   └── ...
+│
+└── README.md
+🧭 Future Enhancements
+
+Add online booking form with email confirmation.
+
+Include a dynamic calendar for events.
+
+Implement a membership or loyalty system for returning visitors.
+
+👩‍💻 Author
+
+Developed by: [Your Name]
+📧 info@boardwalk-games.co
